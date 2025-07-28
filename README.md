@@ -19,7 +19,7 @@
       <img height="200" alt="Avatar photo of Dan" src="https://github.com/DanNunes777.png" alt="Avatar photo of Dan">
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Daniel;Welcome+to+My+GitHub+Profile;Passionate+Developer;Software+Engineer+Student;Full+Stack+Developer;Code+Enthusiast;Always+Learning+New+Things;Problem+Solver" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=FFD700&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Daniel;Welcome+to+My+GitHub+Profile;Passionate+Developer;Software+Engineer+Student;Full+Stack+Developer;Code+Enthusiast;Always+Learning+New+Things;Problem+Solver" alt="Typing SVG" /></a>
   </div>
 </div>
 
