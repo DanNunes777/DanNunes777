@@ -19,7 +19,7 @@
       <img height="200" alt="Avatar photo of Dan" src="https://github.com/DanNunes777.png" alt="Avatar photo of Dan">
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=FFD700&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Daniel;Welcome+to+My+GitHub+Profile;Passionate+Developer;Software+Engineer+Student;Full+Stack+Developer;Code+Enthusiast;Always+Learning+New+Things;Problem+Solver" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=FFD700&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Daniel;Welcome+to+My+GitHub+Profile;Passionate+Developer;Software+Engineer+Student;Data+Scientist;Code+Enthusiast;Always+Learning+New+Things;Problem+Solver" alt="Typing SVG" /></a>
   </div>
 </div>
 
@@ -36,12 +36,12 @@
  *
  * @constructor
  * @param {string} location - Brasil.
- * @param {string} languagues - Português, English.
- * @param {string} jobTitle - Software Developer.
- * @param {string} specialization - Full Stack Development and Software Engineering.
- * @param {string} interests - Web Development, Mobile Apps, AI & problem-solving.
+ * @param {string} languagues - Português, English, Español (básico).
+ * @param {string} jobTitle - Software Developer & Freelancer.
+ * @param {string} specialization - Software Engineering & Data Science.
+ * @param {string} interests - Web Development, Mobile Apps, AI, Data Science & problem-solving.
  * @param {string} hobbies - Coding, Gaming, Learning new technologies & music.
- * @param {string} education - Computer Science Student.
+ * @param {string} education - Software Engineering Student.
  * @param {string} approachable - Yes, always open to collaborate on exciting projects.
  * @param {string} stength - Persistent and detail-oriented.
  * @param {string} weakness - Perfectionism.
@@ -66,6 +66,7 @@
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" title="C++" /> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="Javascript"/> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="ts" title="TypeScript"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python"/> 
       <img width="30" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/>
     </kbd>
@@ -97,7 +98,7 @@
       <kbd>Database</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="mysql" title="MySQL"/>
+      <img width="30px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="mysql" title="MySQL"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgres" title="Postgres SQL"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="mongodb" title="Mongo DB"/>
     </kbd>
@@ -109,6 +110,8 @@
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" title="Numpy"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" title="Pandas"/>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" title="R"/>
+      <img width="30px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" alt="powerbi" title="Power BI"/>
       <img width="30px" src="https://freelogopng.com/images/all_img/1681038242chatgpt-logo-png.png" alt="chatgpt" title="Chat GPT"/>
     </kbd>
     <kbd>
@@ -156,7 +159,7 @@
   <summary>Projetos e Contribuições</summary>
   <br>
   <ul>
-    <li><strong>Projetos Pessoais:</strong> Desenvolvimento de aplicações web e mobile utilizando tecnologias modernas.</li>
+    <li><strong>Projetos Pessoais:</strong> Voltados para o desenvolvimento de aplicações web e mobile utilizando tecnologias modernas, Administração de Banco de dados e treinamento de modelos de IA.</li>
     <li><strong>Estudos em Desenvolvimento:</strong> Focado em aprender e aplicar as melhores práticas de desenvolvimento de software.</li>
     <li><strong>Contribuições Open Source:</strong> Participação ativa na comunidade de desenvolvedores através de projetos open source.</li>
     <li><strong>Aprendizado Contínuo:</strong> Sempre explorando novas tecnologias e frameworks para expandir conhecimentos.</li>
